@@ -10,6 +10,7 @@ This repository provides Linux & Android device tree and configuration files for
 |-------------|-------|------------|-----------|-------|
 | [RK070CU01](https://www.rocktech.com.hk/lcd-product/rk070cu01/) | 7.0"  | 1024x600   | LVDS      | Standard 7" IPS panel |
 | [RK050HR18](https://www.rocktech.com.hk/lcd-product/rk050hr18-ctg/) | 5.0"  | 800x480   | RGB      | High-resolution IPS with capacitive touch |
+| [RK101HI34E](https://www.rocktech.com.hk/lcd-product/rk101hi34e-ct/) | 10.1"  | 1280x800   | LVDS      | High-Brightness IPS with capacitive touch |
 
 > 🔗 **Click model names above to view official product pages **
 
@@ -20,10 +21,13 @@ This repository provides Linux & Android device tree and configuration files for
 - **RK070CU01**
   - 📄 [`RK070CU01.dtsi`](RK070CU01/RK070CU01.dtsi)
   - 📘 [`README.md`](RK070CU01/README.md)
-  - 🔧 Optional: `notes.txt` for kernel-specific notes (if needed)
 
 - **RK050HR18**
   - 📄 [`RK050HR18.dtsi`](RK050HR18/RK050HR18.dtsi)
+  - 📘 [`README.md`](RK050HR18/README.md)
+
+- **RK101HI34E**
+  - 📄 [`RK101HI34E.dtsi`](RK050HR18/RK101HI34E.dtsi)
   - 📘 [`README.md`](RK050HR18/README.md)
 
 ---
