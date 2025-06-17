@@ -1,4 +1,4 @@
-# RK050HR18-CTG TFT Display
+# RK101HI34E-CT TFT Display
 
 **Rocktech Part Number:** RK101HI34E-CT
 **Display Size:** 10.1 inch  
