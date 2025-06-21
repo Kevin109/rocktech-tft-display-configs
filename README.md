@@ -1,6 +1,6 @@
-# Rocktech TFT Display Configuration Examples for Linux & Android Kernel
+# Linux Device Tree Configs for Rockchip SBCs with Rocktech TFT Displays
 
-This repository provides Linux & Android device tree and configuration files for integrating **Rocktech TFT LCD modules** into embedded systems such as industrial panels, handheld devices, and smart terminals.
+This repository is intended for embedded developers working with Rockchip-based SBCs such as RK3566, RK3568, PX30, and others. It provides ready-to-use Device Tree Source (DTS) configurations to support Rocktech TFT LCD modules in Linux and Android environments.
 
 ---
 
@@ -18,18 +18,22 @@ This repository provides Linux & Android device tree and configuration files for
 
 ## 📁 Display Configuration Index
 
-- **RK070CU01**
-  - 📄 [`RK070CU01.dtsi`](RK070CU01/RK070CU01.dtsi)
+### 📺 Supported Display Configuration Index
+
+- **RK070CU01**  
+  A standard 7” IPS TFT display suitable for HMI panels and industrial user interfaces. Widely used in embedded projects that require a balance between resolution, visibility, and affordability.  
+  - 📄 [`RK070CU01.dtsi`](RK070CU01/RK070CU01.dtsi)  
   - 📘 [`README.md`](RK070CU01/README.md)
 
-- **RK050HR18**
-  - 📄 [`RK050HR18.dtsi`](RK050HR18/RK050HR18.dtsi)
+- **RK050HR18**  
+  A high-resolution 5.0” IPS panel with capacitive touch, commonly used in compact handheld or wall-mounted smart terminals.  
+  - 📄 [`RK050HR18.dtsi`](RK050HR18/RK050HR18.dtsi)  
   - 📘 [`README.md`](RK050HR18/README.md)
 
-- **RK101HI34E**
-  - 📄 [`RK101HI34E.dtsi`](RK050HR18/RK101HI34E.dtsi)
-  - 📘 [`README.md`](RK050HR18/README.md)
-
+- **RK101HI34E**  
+  A 10.1” high-brightness IPS TFT display, ideal for applications needing excellent sunlight readability and a wide viewing angle. Suitable for industrial HMIs and automotive use.  
+  - 📄 [`RK101HI34E.dtsi`](RK101HI34E/RK101HI34E.dtsi)  
+  - 📘 [`README.md`](RK101HI34E/README.md)
 ---
 
 ## 📂 Folder Structure
