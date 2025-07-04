@@ -34,4 +34,4 @@
 
 This is the actual running image on the PX30 platform with the Rocktech RK050BHD335 TFT panel.
 
-![RK050BHD335 on PX30](rocktech-RK050BHD335-PX30.png)
+![RK050BHD335 on PX30](rocktech-RK050BHD335-PX30.JPG)
