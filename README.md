@@ -6,11 +6,13 @@ This repository is intended for embedded developers working with Rockchip-based 
 
 ## 📋 Supported Displays
 
-| Model       | Size  | Resolution | Interface | Notes |
-|-------------|-------|------------|-----------|-------|
-| [RK070CU01](https://www.rocktech.com.hk/lcd-product/rk070cu01/) | 7.0"  | 1024x600   | LVDS      | Standard 7" IPS panel |
-| [RK050HR18](https://www.rocktech.com.hk/lcd-product/rk050hr18-ctg/) | 5.0"  | 800x480   | RGB      | High-resolution IPS with capacitive touch |
-| [RK101HI34E](https://www.rocktech.com.hk/lcd-product/rk101hi34e-ct/) | 10.1"  | 1280x800   | LVDS      | High-Brightness IPS with capacitive touch |
+| Model       | Size  | Resolution | Interface |
+|-------------|-------|------------|-----------|
+| [RK070CU01](RK070CU01/) | 7.0"  | 1024x600   | LVDS      | 
+| [RK050HR18](RK050HR18/) | 5.0"  | 800x480   | RGB      | 
+| [RK101HI34E](RK101HI34E/) | 10.1"  | 1280x800   | LVDS      |
+| [RK050BHD335](RK050BHD335/) | 5.0"  | 720x1280   | MIPI      |
+| [RK035SHV235](RK035SHV235/) | 3.5"  | 320x480   | MIPI      |
 
 > 🔗 **Click model names above to view official product pages **
 
@@ -34,6 +36,18 @@ This repository is intended for embedded developers working with Rockchip-based 
   A 10.1” high-brightness IPS TFT display, ideal for applications needing excellent sunlight readability and a wide viewing angle. Suitable for industrial HMIs and automotive use.  
   - 📄 [`RK101HI34E.dtsi`](RK101HI34E/RK101HI34E.dtsi)  
   - 📘 [`README.md`](RK101HI34E/README.md)
+
+
+- **RK050HR18**  
+  A high-resolution 5.0” IPS panel with capacitive touch, commonly used in compact handheld or wall-mounted smart terminals.  
+  - 📄 [`RK050BHD335.dtsi`](RK050BHD335/RK050BHD335.dts)  
+  - 📘 [`README.md`](RK050BHD335/README.md)
+
+
+- **RK050HR18**  
+  A 3.5” TFT panel with capacitive touch, commonly used in compact handheld or wall-mounted smart terminals.  
+  - 📄 [`RK035SHV235_mipi_320x480.dtsi](RK035SHV235/RK035SHV235_mipi_320x480.dtsi)  
+
 ---
 
 ## 📂 Folder Structure
