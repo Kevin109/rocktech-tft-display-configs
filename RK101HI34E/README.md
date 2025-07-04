@@ -29,3 +29,11 @@
 
 [https://www.rocktech.com.hk/lcd-product/rk101hi34e-ct/](https://www.rocktech.com.hk/lcd-product/rk101hi34e-ct/)
 
+
+## RK101HI34E Display on PX30
+
+This is the actual running image on the PX30 platform with the Rocktech RK101HI34E TFT panel.
+
+![RK101HI34E on PX30](rocktech-RK101HI34E-PX30.png)
+
+

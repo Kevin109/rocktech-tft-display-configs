@@ -29,3 +29,8 @@
 
 [https://www.rocktech.com.hk/lcd-product/rk050hr18-ctg/](https://www.rocktech.com.hk/lcd-product/rk050hr18-ctg/)
 
+## RK050HR18 Display on PX30
+
+This is the actual running image on the PX30 platform with the Rocktech RK050HR18 TFT panel.
+
+![RK050HR18 on PX30](rocktech-RK050HR18-PX30.png)

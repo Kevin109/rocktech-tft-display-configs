@@ -29,3 +29,9 @@
 
 [https://www.rocktech.com.hk/lcd-product/rk050bhd206a0/](https://www.rocktech.com.hk/lcd-product/rk050bhd206a0/)
 
+
+## RK050BHD335 Display on PX30
+
+This is the actual running image on the PX30 platform with the Rocktech RK050BHD335 TFT panel.
+
+![RK050BHD335 on PX30](rocktech-RK050BHD335-PX30.png)
