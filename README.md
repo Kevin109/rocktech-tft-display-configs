@@ -44,7 +44,7 @@ This repository is intended for embedded developers working with Rockchip-based 
   - 📘 [`README.md`](RK050BHD335/README.md)
 
 
-- **RK050HR18**  
+- **RK035SHV235**  
   A 3.5” TFT panel with capacitive touch, commonly used in compact handheld or wall-mounted smart terminals.  
   - 📄 [`RK035SHV235_mipi_320x480.dtsi](RK035SHV235/RK035SHV235_mipi_320x480.dtsi)  
 
