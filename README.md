@@ -1,6 +1,23 @@
 # Linux Device Tree Configs for Rockchip SBCs with Rocktech TFT Displays
 
-This repository is intended for embedded developers working with Rockchip-based SBCs such as RK3566, RK3568, PX30, and others. It provides ready-to-use Device Tree Source (DTS) configurations to support Rocktech TFT LCD modules in Linux and Android environments.
+This repository provides pre-tested Device Tree Source (DTS) configurations for integrating Rocktech TFT LCD display modules with popular Rockchip-based Single Board Computers (SBCs), including RK3566, RK3568, PX30, and others. It aims to help embedded Linux and Android developers quickly bring up display interfaces in custom or commercial projects.
+
+## ✨ Features
+
+- 📌 Ready-to-use `.dts` and `.dtsi` configuration files
+- 🧩 Supports Rocktech TFT LCD modules like RK050HR18, RK070CU01
+- 🛠️ Compatible with Android and Linux kernel (4.19/5.10/5.15)
+- ✅ Validated on PX30, RK3566 SBC platforms
+- 🔧 Easily adaptable to custom SBC designs
+
+---
+
+## 📚 Use Case: Rapid Prototyping
+
+When developing a new product with a Rockchip SoC and TFT LCD, our team typically:
+1. Selects a matching Rocktech TFT panel
+2. Creates a breakout board for quick bring-up
+3. Uses these DTS configs to verify display output before finalizing the SBC design
 
 ---
 
@@ -63,3 +80,7 @@ Each display folder typically includes:
 ## 🌐 About Rocktech
 ---
 For more display products and custom embedded solutions, visit 👉 [rocktech.com.hk](https://www.rocktech.com.hk/)
+
+📂 View more configs and documentation on  
+👉 [GitHub @Kevin109](https://github.com/Kevin109)  
+👉 [Kevin's GitHub Pages](https://kevin109.github.io/docs/)
