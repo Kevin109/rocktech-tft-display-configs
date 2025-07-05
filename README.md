@@ -19,6 +19,9 @@ When developing a new product with a Rockchip SoC and TFT LCD, our team typicall
 2. Creates a breakout board for quick bring-up
 3. Uses these DTS configs to verify display output before finalizing the SBC design
 
+- 🖼️ Example:  
+  ![RK050BHD335 with PX30 SBC](https://github.com/Kevin109/rocktech-tft-display-configs/blob/main/RK050BHD335/rocktech-RK050BHD335-PX30.JPG)
+
 ---
 
 ## 📋 Supported Displays
