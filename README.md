@@ -83,4 +83,4 @@ For more display products and custom embedded solutions, visit 👉 [rocktech.co
 
 📂 View more configs and documentation on  
 👉 [GitHub @Kevin109](https://github.com/Kevin109)  
-👉 [Kevin's GitHub Pages](https://kevin109.github.io/docs/)
+👉 [Kevin's GitHub Pages](https://kevin109.github.io)
