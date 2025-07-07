@@ -79,7 +79,15 @@ Each display folder typically includes:
 
 ## 🌐 About Rocktech
 ---
-For more display products and custom embedded solutions, visit 👉 [rocktech.com.hk](https://www.rocktech.com.hk/)
+
+We provide complete custom embedded solutions and industrial display products:
+
+- 🧩 [Custom Embedded Systems](https://www.rocktech.com.hk/custom-embedded-system/)
+- 💡 [Industrial TFT Display Modules](https://www.rocktech.com.hk/industrial-tft-displays/)
+- 🌞 [High Brightness Displays for Outdoor Use](https://www.rocktech.com.hk/high-brightness-displays/)
+- 🖥️ [Android/Linux Embedded SBCs](https://www.rocktech.com.hk/embedded-single-board-computers/)
+
+For more details, visit 👉 [rocktech.com.hk](https://www.rocktech.com.hk/)
 
 📂 View more configs and documentation on  
 👉 [GitHub @Kevin109](https://github.com/Kevin109)  
