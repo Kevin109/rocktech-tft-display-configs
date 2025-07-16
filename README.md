@@ -26,6 +26,7 @@ When developing a new product with a Rockchip SoC and TFT LCD, our team typicall
 | Model       | Size  | Resolution | Interface |
 |-------------|-------|------------|-----------|
 | [RK070CU01](RK070CU01/) | 7.0"  | 1024x600   | LVDS      | 
+| [RK070CU05](RK070CU05/) | 7.0"  | 1024x600   | MIPI      | 
 | [RK050HR18](RK050HR18/) | 5.0"  | 800x480   | RGB      | 
 | [RK101HI34E](RK101HI34E/) | 10.1"  | 1280x800   | LVDS      |
 | [RK050BHD335](RK050BHD335/) | 5.0"  | 720x1280   | MIPI      |
@@ -38,6 +39,10 @@ When developing a new product with a Rockchip SoC and TFT LCD, our team typicall
 ## 📁 Display Configuration Index
 
 ### 📺 Supported Display Configuration Index
+- **RK070CU01**  
+  A standard 7” IPS TFT display suitable for HMI panels and industrial user interfaces. Widely used in embedded projects that require a balance between resolution, visibility, and affordability.  
+  - 📄 [`RK070CU01.dtsi`](RK070CU01/RK070CU05-CTG_mipi_1024x600.dtsi)  
+  - 📘 [`README.md`](RK070CU05/README.md)
 
 - **RK070CU01**  
   A standard 7” IPS TFT display suitable for HMI panels and industrial user interfaces. Widely used in embedded projects that require a balance between resolution, visibility, and affordability.  
@@ -81,6 +86,5 @@ Each display folder typically includes:
 ---
 For more display products and custom embedded solutions, visit 👉 [rocktech.com.hk](https://www.rocktech.com.hk/)
 
-📂 View more configs and documentation on  
-👉 [GitHub @Kevin109](https://github.com/Kevin109)  
+📂 View more configs and documentation on   
 👉 [Kevin's GitHub Pages](https://kevin109.github.io)
